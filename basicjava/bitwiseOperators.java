@@ -11,6 +11,8 @@ public class bitwiseOperators {
    // unsigned right shift >>>
 
    int c = 5 & 4;
+   System.out.println(Integer.toBinaryString(5));
+   System.out.println(Integer.toBinaryString(4));
    System.out.println(c);
     }
 
