@@ -1,7 +1,7 @@
 public class test {
     public static void main(String[] args) {
-        int a = 5;
-        System.out.println(Integer.toBinaryString(a));
+        int c = 5 & 6;
+        System.out.println(c);
     }
     
 }
