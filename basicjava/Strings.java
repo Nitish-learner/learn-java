@@ -5,6 +5,8 @@ public class Strings {
         int a = 1;
         char c = 'r';
         boolean  ispassed = true;
+
+        // sequence of  characters
         String name = "nitish";
         System.out.println(name);
     }
