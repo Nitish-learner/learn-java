@@ -1,4 +1,3 @@
-package basicjava;
 
 public class print3 {
     public static void main(String[] args) {

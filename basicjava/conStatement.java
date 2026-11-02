@@ -1,4 +1,3 @@
-package basicjava;
 
 public class conStatement {
     public static void main(String[] args) {

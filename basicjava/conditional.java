@@ -1,4 +1,3 @@
-package basicjava;
 
 public class conditional {
     
